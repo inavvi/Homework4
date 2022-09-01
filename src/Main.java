@@ -110,7 +110,7 @@ public class Main {
             if (free>two && free>one) {
                 System.out.println("Free самое большое число "+free);
         } else {
-                System.out.println("Free не подходит"+free);
+                System.out.println("Free не подходит "+free);
             }
     }
 }
